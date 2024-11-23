@@ -15,7 +15,7 @@
 
 proxy-providers:
   服务提供商-1:
-    url: 机场订阅地址1
+    url: https://dy-1.smjcdh.com/api/v1/client/subscribe?token=4329bcc9c4ed40d75982e1be94ad62f8
     interval: 86400
     benchmark-timeout: 300
     benchmark-url: http://taobao.com
